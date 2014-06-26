@@ -10,3 +10,6 @@ TODO, FIXME or XXX.
 For now the code just doesn't work. I'm stuck there because I don't really know
 what's wrong with the code I'm trying to add. And FirePHP doesn't seem to work
 during the tests.
+
+The three critical spots where I appended code to make the new SOAP service are
+easily findable looking for FIXME tags.
