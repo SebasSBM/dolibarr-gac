@@ -124,9 +124,9 @@ $server->wsdl->addComplexType(
 	array(
 		'categories' => array(
             'name' => 'category',
-            'type' => 'tns:categorie',
-            'minOccurs' => '0',
-            'maxOccurs' => 'unbounded'
+            'type' => 'tns:categorie'
+//          'minOccurs' => '0',
+//          'maxOccurs' => 'unbounded'
 	)
 );
 
