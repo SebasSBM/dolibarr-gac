@@ -119,7 +119,7 @@ $server->wsdl->addComplexType(
 	'CategoriesArray',
 	'complexType',
 	'array',
-	'sequence',
+	'',//sequence
 	'',
 	array(
 		'categories' => array(
